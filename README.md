@@ -66,4 +66,7 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Ledenev&layout=compact&theme=dark)](https://github.com/Michael-Ledenev)
+```
 
+---
