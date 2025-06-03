@@ -55,9 +55,9 @@
 1. **Автоматизация отчётов** (Excel)  
    - Оптимизировал рутинные процессы в энергетической компании.  
 2. **Учебные проекты** (Python/SQL/Kotlin)  
-   - [Курс Udemy - HTML и CSS Основы] (https://github.com/Michael-Ledenev/Udemy_HTML-CSS?tab=readme-ov-file)
-   - [SQL и PostgreSQL от Udemy] (https://github.com/Michael-Ledenev/Udemy_PostgreSQL)
-   - [Курс Kotlin с нуля + разработка приложения под Android] (https://github.com/Michael-Ledenev/Udemy_Kotlin_from-scratch)
+   - [Курс Udemy - HTML и CSS Основы](https://github.com/Michael-Ledenev/Udemy_HTML-CSS?tab=readme-ov-file)
+   - [SQL и PostgreSQL от Udemy](https://github.com/Michael-Ledenev/Udemy_PostgreSQL)
+   - [Курс Kotlin с нуля + разработка приложения под Android](https://github.com/Michael-Ledenev/Udemy_Kotlin_from-scratch)
 
 ---
 
